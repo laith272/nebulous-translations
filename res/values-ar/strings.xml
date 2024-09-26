@@ -928,7 +928,7 @@
     <string name="Choose_Menu">"اختر القائمة"</string>
     <string name="SPECTATE">مشاهدة</string>
     <string name="INVITE">دعوة</string>
-    <string name="error_1">القائد ومساعديه هم الوحيدون الذي يُسمح لهم بأرسال رساله للعشيرة !.</string>
+    <string name="erorالقائد ومساعديه هم الوحيدون الذي يُسمح لهم بأرسال رساله للعشيرة !.</string>
     <string name="Hat">القبعة</string>
     <string name="Hats">القبعات</string>
     <string name="Pet_Uploads">تحميلات الحيوانات</string>
@@ -1198,7 +1198,7 @@
     <string name="Invalid_Clan_ID_">اسم العشيرة غير صالح</string>
     <string name="MUTED">"حُظِر من الدَردَشة"</string>
     <string name="SKIN">سكن</string>
-    <string name="Choose_Skin_Size">اختر حجم سكنك</string>
+    <string name="Choose_Skin_Size">أختار حجم سكنك</string>
     <string name="Other_players_will_not_be_able_to_hear_you_">لن يتمكن اللاعبين الاخرين من سماعك!</string>
     <string name="Allow_permission_to_enable_voice_recording_">السماح بأذن لتمكين التسجيل الصوتي</string>
     <string name="voice_chat_prompt">للحصول على أفضل صوت أستخدم سماعة الرأس..</string>
@@ -1311,15 +1311,15 @@ Commands:
 !reset
 !welcome {message}
 !difficulty [0-3] or [1-4] for Campaign
-!hidden
+!hiddenمخفي 
 !guests
 !slowchat
 !pausechat
-!mute {id}
-!admin {id}
+!mute {id}كتم الشخص 
+!admin {id} إعطاء ادمن للشخص 
 !allow {id}
 !allow reset
-!winner"
+!winner"الفوز 
 </string>
     <string name="ID_Sort">نوع الهوية</string>
     <string name="Master_Tamer">مُروِّض مُتقن</string>
